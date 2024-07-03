@@ -1,0 +1,17 @@
+h2 {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body { /*กำหนดให้ทั้งหมดที่เีขยนใน HTML มาอยู่ตรงกลางหน้าเว็บ */
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
